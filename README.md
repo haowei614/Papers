@@ -9,3 +9,10 @@
 
 Please feel free to contact me (haowei.cheng@jaist.ac.jp) if you have any questions or comments on this work.
 
+Sincerely,
+CHENG Haowei 
+-----------------
+Japan Advanced Institute of Science and Technology
+Graduate School of Advanced Institute of Science and Technology
+Unoki Laboratory 
+
