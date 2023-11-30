@@ -8,9 +8,7 @@
 
 "*** Slide" was the main slide I used in this study. It is easier to help readers catch the key issues, novelty, solutions, and contributions in this study.
 
-Please feel free to contact me (haowei.cheng@jaist.ac.jp) if you have any questions or comments on this work.
-
-Sincerely,  
+Please feel free to contact me (haowei.cheng@jaist.ac.jp) if you have any questions or comments on this work.  
 
 CHENG Haowei
 
