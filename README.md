@@ -10,7 +10,8 @@
 
 Please feel free to contact me (haowei.cheng@jaist.ac.jp) if you have any questions or comments on this work.
 
-Sincerely,
+Sincerely,  
+
 CHENG Haowei
 
 =============================
