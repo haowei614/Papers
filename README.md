@@ -6,7 +6,7 @@
 
 "[jhes2023](http://jhes.jp/2023/doku.php?id=start)" was a domestic conference held online on Sept.2
 
-"*** Slide" and "Poster***" were the main materials I used in this study. It is easier to help readers catch the key issues, novelty, solutions, and contributions in this study.
+"Slide***" and "Poster***" were the main materials I used in this study. It is easier to help readers catch the key issues, novelty, solutions, and contributions in this study.
 
 Please feel free to contact me (haowei.cheng@jaist.ac.jp) if you have any questions or comments on this work.  
 
