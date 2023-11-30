@@ -15,7 +15,9 @@ CHENG Haowei
 
 =============================
 
-Japan Advanced Institute of Science and Technology
-Graduate School of Advanced Institute of Science and Technology
+Japan Advanced Institute of Science and Technology  
+
+Graduate School of Advanced Institute of Science and Technology  
+
 Unoki Laboratory
 
