@@ -1,6 +1,6 @@
 # Papers
 
-"dissertation" is my main Master's project from October 2021 to September 2023, which mainly focuses on speech anti-spoofing by exploring human auditory mechanisms.
+"dissertation" is my main Master's project from October 2021 to September 2023. It primarily focuses on speech anti-spoofing and involves an exploration of human auditory mechanisms which is supervised by Prof. [Masashi Unoki](https://fp.jaist.ac.jp/public/Default2.aspx?id=293&l=1).
 
 "APSIPA2023" is an international conference held in Taipei on Oct.31-Nov.3
 
