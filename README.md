@@ -4,3 +4,8 @@
 "APSIPA2023" is an international conference held in Taipei on Oct.31-Nov.3
 
 "jhes2023" was a domestic conference held online on Sept.2
+
+"*** Slide" was the main slide I used in this study. It is easier to help readers catch the key issues, novelty, solutions, and contributions in this study.  
+
+Please feel free to contact me (haowei.cheng[at]jaist.ac.jp) if you have any questions or comments on this work.
+
